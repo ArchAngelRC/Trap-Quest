@@ -8,11 +8,11 @@ If you just want the Patreon unlocker for any interpreter, use the "Trap Quest A
 
 To make the Tables work, you have to do the following:
 
-1 - Open the Trap Quest game file with your interpreter
-2 - Once open, change the option "Automatic "press enter to continue"" to instant.
-3 - Open the cheat engine table according to the above criteria
-4 - Once the cheat engine table has loaded and is attached your game, activate the sript by clicking on the small black box next to "Activation"
-5 - When it has succcesfully loaded and opened up more options to choose from, you can change the option "Automatic "press enter to continue"" in the game to something else you desire.
+- Open the Trap Quest game file with your interpreter
+- Once open, change the option "Automatic "press enter to continue"" to instant.
+- Open the cheat engine table according to the above criteria
+- Once the cheat engine table has loaded and is attached your game, activate the sript by clicking on the small black box next to "Activation"
+- When it has succcesfully loaded and opened up more options to choose from, you can change the option "Automatic "press enter to continue"" in the game to something else you desire.
 
 =======================
 
